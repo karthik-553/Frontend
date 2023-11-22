@@ -1,8 +1,4 @@
 {
-  "dependencies": {
-  "@material-ui/styles": "^5.0.0",
-}
-
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
