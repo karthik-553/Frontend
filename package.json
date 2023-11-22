@@ -1,7 +1,6 @@
 {
   "dependencies": {
   "@material-ui/styles": "^5.0.0",
-  // ... other dependencies
 }
 
   "name": "frontend",
